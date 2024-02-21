@@ -76,6 +76,9 @@
      text-align: right;
      }
 
+  div.rede {
+   display: grid;
+  }
 
  /**/
   
